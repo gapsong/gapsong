@@ -4,6 +4,10 @@ Welcome to my Github Page.
 
 ![](https://i.giphy.com/media/RbDKaczqWovIugyJmW/giphy.webp)
 
+## I'm a Developer, Learner and a music lover!
+- 🔭 I’m currently studying computer science in Berlin!
+- 🌱 I’m currently learning Algorithms via leetcode!
+- ⚡ Fun fact: I love to play chess! :bulb: :exclamation:
 
 ### Languages and Tools:
 
