@@ -7,7 +7,7 @@ Welcome to my Github Page.
 ## I'm a Developer, Learner and a music lover!
 - 🔭 I’m currently studying computer science in Berlin!
 - 🌱 I’m currently researching compression on LLM's and researching on hyperspectral tissue segementation at Fraunhofer!
-- ⚡ Fun fact: I love to play chess! :bulb: :exclamation:
+- ⚡ Fun fact: I love to play chess! :bulb: :exclamation: ♟️
 
 ### Languages and Tools:
 
