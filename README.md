@@ -9,7 +9,7 @@ Welcome to my Github Page.
 - I used to be a Fullstack developer for 5 years now focusing on AI.
 - 🌱 I’m currently researching compression on LLM's and researching on hyperspectral tissue segementation at Fraunhofer!
 - ⚡ Fun fact: I love to play chess! :bulb: :exclamation: ♟️
-- As a Freelance I implement RAG Systems to search PDFs more efficiently
+- As a Freelance I implement RAG Systems to search Documents more efficiently
 
 ### Languages and Tools:
 
