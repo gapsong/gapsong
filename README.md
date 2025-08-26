@@ -7,6 +7,7 @@ Welcome to my Github Page.
 ## I'm a Developer, Learner and a music lover!
 - 🔭 I’m currently studying computer science in Berlin!
 - I used to be a Fullstack developer for 5 years now focusing on AI.
+- My RTX 4090 runs almost every day. Testing new oss models and working with it. Playing around with it gave me a much deeper insight into this world
 - 🌱 I’m currently researching compression on LLM's and researching on hyperspectral tissue segementation at Fraunhofer!
 - ⚡ Fun fact: I love to play chess! :bulb: :exclamation: ♟️
 - As a Freelance I implement RAG Systems to search Documents more efficiently
