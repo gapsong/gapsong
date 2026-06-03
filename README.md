@@ -18,6 +18,12 @@ them useful.
     +150 perplexity points recovery on broken 2-bit models
   → Proposed DRA: error-based adapter initialization for 
     parameter-efficient fine-tuning on resilient architectures
+- 🧪 SA-SVD reference implementation (open source, reproducible)
+  → [gapsong/sa-svd-qa-lora](https://github.com/gapsong/sa-svd-qa-lora)
+  → Measured at 2-bit across three LLMs: better WikiText perplexity 
+    on every model tested (-15% to -48%) at identical training budget — 
+    and it makes Qwen2-1.5B trainable where standard random-init 
+    QA-LoRA diverges with inf gradients
 
 **Stack:** PyTorch · Hugging Face (PEFT, Transformers, TRL) · 
 GPTQ · bitsandbytes · Slurm · CUDA · AWS
