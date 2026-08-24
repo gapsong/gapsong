@@ -4,7 +4,7 @@ I work at the intersection of extreme model compression and
 production-grade fine-tuning.
 
 **What I actually do:** I make large language models run on hardware 
-that wasn't supposed to support them — without destroying what makes 
+that wasn't supposed to support them without destroying what makes 
 them useful.
 
 **Shipped:**
