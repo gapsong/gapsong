@@ -1,4 +1,4 @@
-## ML Engineer · LLM Efficiency & Quantization
+## Fullstack and ML Engineer · LLM Efficiency & Quantization
 
 I work at the intersection of extreme model compression and 
 production-grade fine-tuning.
