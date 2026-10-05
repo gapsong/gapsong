@@ -24,6 +24,20 @@ them useful.
     on every model tested (-15% to -48%) at identical training budget — 
     and it makes Qwen2-1.5B trainable where standard random-init 
     QA-LoRA diverges with inf gradients
+- 🧰 qpeft: quantization-aware training and PEFT for LLMs at 2/3/4 bits
+  → [gapsong/qpeft](https://github.com/gapsong/qpeft) ·
+    EfficientQAT, QA-LoRA and PEQA as configs over one quantized substrate;
+    the merge stays an integer model, tested to equal the trained one
+
+**Tools I build for myself** (agent-assisted with Claude Code, used daily, open source):
+- 🎙️ [mac-voice-dictation](https://github.com/gapsong/mac-voice-dictation) ·
+  push-to-talk dictation for macOS: hold a key, speak, release.
+  Native Swift, Whisper on the Mac's own GPU, nothing leaves the machine.
+- ⚡ [whisper-service](https://github.com/gapsong/whisper-service) ·
+  the on-device Whisper server behind it: MLX on Apple Silicon,
+  Silero VAD, about 0.2 s per sentence.
+- 📊 [claude-code-statusline](https://github.com/gapsong/claude-code-statusline) ·
+  model, context, usage limits and git state in one portable bash statusline.
 
 **Stack:** PyTorch · Hugging Face (PEFT, Transformers, TRL) · 
 GPTQ · bitsandbytes · Slurm · CUDA · AWS
